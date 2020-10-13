@@ -1,0 +1,27 @@
+﻿S#,IP Address,Device Name,OEM,Description
+1,172.21.134.145,VG-Router,Cisco,Voice Gateway
+2,172.21.10.4,RGIT_CORE_SW,Cisco,9400-Core Switch
+3,172.21.10.5,RGIT_SRVR_SW,Cisco,9500-Server Switch
+4,172.21.10.10,RGIT_MFL_SW,Cisco,CITD Access Switch
+5,172.21.10.11,RGIT_1FL_SW,Cisco,CITD Access Switch
+6,172.21.10.12,RGIT_2FL_PAL_SW,Cisco,CITD Access Switch
+7,172.21.10.122,RGIT_2FL_IHC_SW,Cisco,CITD Access Switch
+8,172.21.10.13,RGIT_3FL_SW,Cisco,CITD Access Switch
+9,172.21.10.14,RGIT_4FL_SW,Cisco,CITD Access Switch
+10,172.21.10.15,RGIT_5FL_SW,Cisco,CITD Access Switch
+11,172.21.10.116,RGIT_6FL_CLIMAX_SW,Cisco,CITD Access Switch
+12,172.21.10.166,RGIT_6FL_ORACLE_SW,Cisco,CITD Access Switch
+13,172.21.10.177,RGIT_7FL_SW,Cisco,CITD Access Switch
+14,172.21.10.18,RGIT_8FL_SW01,Cisco,CITD Access Switch
+15,172.21.10.188,RGIT_8FL_SW02,Cisco,CITD Access Switch
+16,172.21.10.19,RGIT_9FL_SW,Cisco,CITD Access Switch
+17,10.10.0.1,RTS-CORE-VSS,Cisco,RTS Core Switch-VSS-6807
+18,10.10.0.11,RTS-1F-SW2,Cisco,RTS Access Switch
+19,10.10.0.27,RTS-1F-SW3,Cisco,RTS Access Switch
+20,10.10.0.33,RTS-1F-SW4,Cisco,RTS Access Switch
+21,10.10.0.31,RTS-1F-SW5,Cisco,RTS Access Switch
+22,10.10.0.30,RTS-1F-SW6,Cisco,RTS Access Switch
+23,10.10.0.61,Nexus Switch,Cisco,Oracle Switch
+24,10.10.0.62,Nexus Switch,Cisco,Oracle Switch
+25,10.10.25.2,Fortinet Firewall,Fortinet,Perimeter FW
+26,172.21.10.7,Fortinet Firewall,Fortinet,Internal FW
